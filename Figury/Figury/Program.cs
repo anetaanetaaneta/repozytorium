@@ -30,11 +30,11 @@ namespace Figury
 
         
 
-        static public void prostokat(int x, int y, int bok1, int bok)
+        static public void prostokat(int x, int y, int bok1, int bok2)
         {
 
             int drugax = x + bok1;
-            int drugay = y + bok;
+            int drugay = y + bok2;
             Console.WriteLine("(" + x + "," + y + ")");
             Console.WriteLine("(" + drugax + "," + y + ")");
             Console.WriteLine("(" + drugax + "," + drugay + ")");
