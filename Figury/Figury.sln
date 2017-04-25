@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figury", "Figury\Figury.csproj", "{19FB35DF-DABC-48A0-84D9-9ABCBABACF48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prostokatTests", "prostokatTests\prostokatTests.csproj", "{08715ED3-19CB-4AE0-9F51-A0B81A8D5162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{19FB35DF-DABC-48A0-84D9-9ABCBABACF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19FB35DF-DABC-48A0-84D9-9ABCBABACF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19FB35DF-DABC-48A0-84D9-9ABCBABACF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08715ED3-19CB-4AE0-9F51-A0B81A8D5162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08715ED3-19CB-4AE0-9F51-A0B81A8D5162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08715ED3-19CB-4AE0-9F51-A0B81A8D5162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08715ED3-19CB-4AE0-9F51-A0B81A8D5162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
